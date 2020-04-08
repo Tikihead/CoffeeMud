@@ -11,7 +11,7 @@ To Install JDK: https://ninite.com/
 When you have Coffeemud all installed, you can open the folder where  
 you downloaded/unzipped it and make a shortcut for mud.bat  
 and then you can change the name of the shortcut to Coffeemud,  
-and change the shortcut's icon, and click that to start your server.  
+and change the shortcut's icon, and click that to start your server,    
 ( it will open the command prompt and begin loading it there )  
 
 
@@ -20,10 +20,10 @@ When you want to connect to your mud, open your mud client
 (This will let you play the game on your home computer)  
 
 
-If you wish to modify the mud, open your browser ( firefox, chrome, opera, etc)  
+If you wish to modify the mud, open your browser ( firefox, chrome, opera, etc),    
 and navigate to the admin web site on port 27777.  
 i.e. (http://localhost:27777/), this will open the MudGrinder interface.  
-to see your mud's public webpage, you can use ports 80 or 27744 ( public),  
+To see your mud's public webpage, you can use ports 80 or 27744 ( public),  
 i.e. (http://localhost:27744/)  
 
 
