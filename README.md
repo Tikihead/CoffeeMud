@@ -20,7 +20,7 @@ When you want to connect to your mud, open your mud client
 (This will let you play the game on your home computer)  
 
 
-If you wish to modify the mud, open your browser ( firefox, chrome.opera, etc)  
+If you wish to modify the mud, open your browser ( firefox, chrome, opera, etc)  
 and navigate to the admin web site on port 27777.  
 i.e. (http://localhost:27777/), this will open the MudGrinder interface.  
 to see your mud's public webpage, you can use ports 80 or 27744 ( public),  
